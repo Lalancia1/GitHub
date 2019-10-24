@@ -1,0 +1,70 @@
+#textGrand{
+position:absolute;
+    background-color: yellow;
+    vertical-align: center;
+    width: 900px;
+    height: 600px;
+    margin-left: 100px;
+    margin-top: 100px;
+
+h2{
+    padding-top: 3px;
+    font-size: 15px;
+    color:dodgerblue;
+}
+#petitTitreDuDessus{
+    font-size: 10px;
+    color:dodgerblue;
+    margin-left: 10px;
+}
+img{
+margin-left: 100px;
+}
+
+
+
+
+
+
+#formation{
+    position:absolute;
+    font-size: 10px;
+    color:dodgerblue;
+    margin-left: -80px;
+    margin-top: -240px;
+
+}
+#titre2{
+    position:absolute;
+
+    font-size: 12px;
+    margin-left: 100px;
+}
+#comTitreDuDessus{
+    width: 200px;
+    height: 200px;
+
+    font-size:10px;
+}
+#laDivTexte{
+    position:absolute;
+    margin-left:100px
+}
+#premiereListe{
+
+    width: 300px;
+    height: 300px;
+    color: dodgerblue;
+font-size: 10px;
+    margin-left:-100px ;
+    margin-top: 10px;
+
+}
+#deuxiemeListe{
+    width: 300px;
+    height: 300px;
+    color: dodgerblue;
+    font-size: 10px;
+    margin-left:-93px ;
+    margin-top: -200px;
+}

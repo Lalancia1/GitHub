@@ -1,0 +1,77 @@
+nav a:hover{
+    background-color:indianred;
+    transition:2.5s;
+}
+ul li{
+  background-color: lawngreen;
+}
+
+ul li{
+    display:inline-block;
+}
+ul li  a:hover{
+   font-weight: bold;
+    font-size:25px;
+    transition: font-size 3s;
+}
+ul li a:active{
+    text-transform:uppercase;
+}
+ul li a:link,ul li a:visited{
+    color:gold;
+}
+#register:focus{/*ne s'applique qu'aux formulaires*/
+    background:blue;
+    color:orangered;
+}
+a:lang(en){
+    color:olive !important;
+}
+.float_left{
+    background: lawngreen;
+    width:50px ;
+    height:100px ;
+    border: 3px;
+    margin:5px ;
+    display:inline-block;
+    text-align: center;
+}
+#anim{
+    background-color: lawngreen;
+    position:absolute;
+    width: 50px;
+    height:50px ;
+    left:100px;
+    top:10px;
+    transition:transform(2s);
+    transform:translateX3d(150px,0,0);
+
+    animation-fill-mode: forwards;
+}
+#anim2{
+    background-color: blue;
+    position:absolute;
+    width: 50px;
+    height:50px ;
+    left:200px;
+    top:10px;
+    transition:transform(2s);
+    transform:translate3d(150px,0,0);
+    animation-name:monAnimation;
+    animation-fill-mode: forwards;
+}
+#anim:hover{
+    transform:translateX(150px);
+    transition: transform 1.5s;
+
+}
+@keyframes   monAnimation {
+    0%{
+    width: 150px;background: black;
+}
+    80%{
+    transform: rotate(90deg);width: 350px;
+}
+    100% {width: 500px;
+    }
+}

@@ -1,0 +1,124 @@
+#general{
+background-color:black;
+    width: 100%;
+    height: 50px;
+}
+#apple{
+width: 30px;
+    height: 30px;
+    margin-left: 60px;
+    margin-top: 10px;
+
+}
+
+#paragraphe2{
+    font-size: 15px;
+
+    color:white;
+}
+#paragraphe2:hover{
+    color:orange;
+}
+#text2{
+    position:absolute;
+    margin-left: 210px;
+    margin-top: -10px;
+
+}
+#text2:hover{
+     color:yellow;
+ }
+#paragraphe3{
+    font-size: 15px;
+
+    color:white;
+}
+#paragraphe3:hover{
+    color:red;
+}
+#loupe{
+    width: 50px;
+    height: 50px;
+}
+#text3{
+    position:absolute;
+    margin-left: 320px;
+    margin-top: -10px;
+}
+#text3:hover{
+    color:yellow;
+}
+#text4{
+    position:absolute;
+    margin-left: 480px;
+    margin-top: -10px;
+}
+#paragraphe4{
+    font-size: 15px;
+    color:white;
+}
+#paragraphe4:hover{
+   color: lawngreen;
+}
+#text5{
+    position:absolute;
+    margin-left: 600px;
+    margin-top: -10px;
+}
+#text5:hover{
+    color:yellow;
+}
+#paragraphe5{
+    font-size: 15px;
+    color:white;
+}
+#paragraphe5:hover{
+ color:yellow;
+}
+#paragraphe6:hover{
+    color:blue;
+}
+
+#text6{
+    position:absolute;
+    margin-left: 700px;
+    margin-top: -10px;
+}
+#text6:hover{
+    color:yellow;
+}
+#paragraphe6{
+    font-size: 15px;
+
+    color:white;
+}
+#text7{
+    position:absolute;
+    margin-left: 800px;
+    margin-top: -10px;
+}
+#paragraphe7{
+    font-size: 15px;
+
+    color:white;
+}
+#paragraphe7:hover{
+    color:red;
+}
+#text8{
+    position:absolute;
+    margin-left: 900px;
+    margin-top: -10px;
+}
+
+#paragraphe:hover{
+ color:blue;
+}
+
+img{
+    color: white;
+    position:absolute;
+    margin-left: 1000px;
+    margin-top: -2px;
+}
+

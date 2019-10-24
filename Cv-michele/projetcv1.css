@@ -1,0 +1,17 @@
+
+#monIdentité{
+    text-align: center;
+    width: 900px;
+    height: 500px;
+    margin: auto;
+
+}
+#monNom{
+font-size: 20px;
+}
+#monTéléphone{
+    font-size: 20px;
+}
+#monMail{
+    font-size: 20px;
+}
